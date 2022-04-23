@@ -10,7 +10,7 @@ pids
 *.pid
 *.seed
 *.pid.lock
-*.lock
+# *.lock
 target
 # Optional npm cache directory
 .npm
