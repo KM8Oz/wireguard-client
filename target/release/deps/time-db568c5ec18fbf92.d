@@ -1,0 +1,11 @@
+/Users/novyjpolzovatel/Desktop/wireguard-client/target/release/deps/time-db568c5ec18fbf92.rmeta: /Users/novyjpolzovatel/.cargo/registry/src/github.com-1ecc6299db9ec823/time-0.1.44/src/lib.rs /Users/novyjpolzovatel/.cargo/registry/src/github.com-1ecc6299db9ec823/time-0.1.44/src/display.rs /Users/novyjpolzovatel/.cargo/registry/src/github.com-1ecc6299db9ec823/time-0.1.44/src/duration.rs /Users/novyjpolzovatel/.cargo/registry/src/github.com-1ecc6299db9ec823/time-0.1.44/src/parse.rs /Users/novyjpolzovatel/.cargo/registry/src/github.com-1ecc6299db9ec823/time-0.1.44/src/sys.rs
+
+/Users/novyjpolzovatel/Desktop/wireguard-client/target/release/deps/libtime-db568c5ec18fbf92.rlib: /Users/novyjpolzovatel/.cargo/registry/src/github.com-1ecc6299db9ec823/time-0.1.44/src/lib.rs /Users/novyjpolzovatel/.cargo/registry/src/github.com-1ecc6299db9ec823/time-0.1.44/src/display.rs /Users/novyjpolzovatel/.cargo/registry/src/github.com-1ecc6299db9ec823/time-0.1.44/src/duration.rs /Users/novyjpolzovatel/.cargo/registry/src/github.com-1ecc6299db9ec823/time-0.1.44/src/parse.rs /Users/novyjpolzovatel/.cargo/registry/src/github.com-1ecc6299db9ec823/time-0.1.44/src/sys.rs
+
+/Users/novyjpolzovatel/Desktop/wireguard-client/target/release/deps/time-db568c5ec18fbf92.d: /Users/novyjpolzovatel/.cargo/registry/src/github.com-1ecc6299db9ec823/time-0.1.44/src/lib.rs /Users/novyjpolzovatel/.cargo/registry/src/github.com-1ecc6299db9ec823/time-0.1.44/src/display.rs /Users/novyjpolzovatel/.cargo/registry/src/github.com-1ecc6299db9ec823/time-0.1.44/src/duration.rs /Users/novyjpolzovatel/.cargo/registry/src/github.com-1ecc6299db9ec823/time-0.1.44/src/parse.rs /Users/novyjpolzovatel/.cargo/registry/src/github.com-1ecc6299db9ec823/time-0.1.44/src/sys.rs
+
+/Users/novyjpolzovatel/.cargo/registry/src/github.com-1ecc6299db9ec823/time-0.1.44/src/lib.rs:
+/Users/novyjpolzovatel/.cargo/registry/src/github.com-1ecc6299db9ec823/time-0.1.44/src/display.rs:
+/Users/novyjpolzovatel/.cargo/registry/src/github.com-1ecc6299db9ec823/time-0.1.44/src/duration.rs:
+/Users/novyjpolzovatel/.cargo/registry/src/github.com-1ecc6299db9ec823/time-0.1.44/src/parse.rs:
+/Users/novyjpolzovatel/.cargo/registry/src/github.com-1ecc6299db9ec823/time-0.1.44/src/sys.rs:

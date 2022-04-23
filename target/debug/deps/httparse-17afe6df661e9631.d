@@ -1,0 +1,10 @@
+/Users/novyjpolzovatel/Desktop/wireguard-client/target/debug/deps/httparse-17afe6df661e9631.rmeta: /Users/novyjpolzovatel/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.7.0/src/lib.rs /Users/novyjpolzovatel/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.7.0/src/iter.rs /Users/novyjpolzovatel/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.7.0/src/macros.rs /Users/novyjpolzovatel/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.7.0/src/simd/mod.rs /Users/novyjpolzovatel/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.7.0/src/simd/sse42.rs /Users/novyjpolzovatel/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.7.0/src/simd/avx2.rs
+
+/Users/novyjpolzovatel/Desktop/wireguard-client/target/debug/deps/httparse-17afe6df661e9631.d: /Users/novyjpolzovatel/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.7.0/src/lib.rs /Users/novyjpolzovatel/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.7.0/src/iter.rs /Users/novyjpolzovatel/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.7.0/src/macros.rs /Users/novyjpolzovatel/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.7.0/src/simd/mod.rs /Users/novyjpolzovatel/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.7.0/src/simd/sse42.rs /Users/novyjpolzovatel/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.7.0/src/simd/avx2.rs
+
+/Users/novyjpolzovatel/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.7.0/src/lib.rs:
+/Users/novyjpolzovatel/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.7.0/src/iter.rs:
+/Users/novyjpolzovatel/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.7.0/src/macros.rs:
+/Users/novyjpolzovatel/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.7.0/src/simd/mod.rs:
+/Users/novyjpolzovatel/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.7.0/src/simd/sse42.rs:
+/Users/novyjpolzovatel/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.7.0/src/simd/avx2.rs:
